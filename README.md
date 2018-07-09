@@ -1,2 +1,2 @@
-# sm-TranslationsBuilder
-Translations Builder for SourceMod
+# Translations Builder
+This tool is under of developing!
